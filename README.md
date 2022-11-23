@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rousol, they call me Russ ...
 - 👀 I’m interested in programming ...
-- 🌱 I’m currently learning Java, Pythin , Dart&Flutter .. 
+- 🌱 I’m currently learning Java, Python , Dart&Flutter & SQL .. 
 - 💞️ I’m looking to collaborate on Artificial Inteligence, Cyber Security & IoT
 - 📫 How to reach me via E-Mail : rsabobeh@gmail.com
 
