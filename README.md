@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Rousol, they call me Russ ...
-- 👀 I’m interested in programming ...
-- 🌱 I’m currently learning Java, Python , Dart&Flutter & SQL .. 
-- 💞️ I’m looking to collaborate on Artificial Inteligence, Cyber Security & IoT
+- 👋 Hi, I’m Rousol.
+- 👀 I’m a programmer, & my major is Computer Science
+- 💞️ I’m passionate in Artificial Inteligence.
 - 📫 How to reach me via E-Mail : rsabobeh@gmail.com
 
 <!---
